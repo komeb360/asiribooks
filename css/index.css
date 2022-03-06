@@ -46,8 +46,10 @@ header nav a:hover {
 }
 
 main {
+}
 
-  height: 1000px;
+main p {
+  display: inline; 
 }
 
 footer {
